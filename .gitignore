@@ -39,3 +39,6 @@ coverage/
 .tmp/
 .librarian/
 
+# log directory
+log/
+
